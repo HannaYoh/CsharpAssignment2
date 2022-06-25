@@ -1,0 +1,8 @@
+C:\Users\hanyo\source\repos\Assignment2\CsharpAssignment2\VATCalculator\VATCalculator\bin\Debug\VATCalculator.exe.config
+C:\Users\hanyo\source\repos\Assignment2\CsharpAssignment2\VATCalculator\VATCalculator\bin\Debug\VATCalculator.exe
+C:\Users\hanyo\source\repos\Assignment2\CsharpAssignment2\VATCalculator\VATCalculator\bin\Debug\VATCalculator.pdb
+C:\Users\hanyo\source\repos\Assignment2\CsharpAssignment2\VATCalculator\VATCalculator\obj\Debug\VATCalculator.csproj.AssemblyReference.cache
+C:\Users\hanyo\source\repos\Assignment2\CsharpAssignment2\VATCalculator\VATCalculator\obj\Debug\VATCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanyo\source\repos\Assignment2\CsharpAssignment2\VATCalculator\VATCalculator\obj\Debug\VATCalculator.csproj.CoreCompileInputs.cache
+C:\Users\hanyo\source\repos\Assignment2\CsharpAssignment2\VATCalculator\VATCalculator\obj\Debug\VATCalculator.exe
+C:\Users\hanyo\source\repos\Assignment2\CsharpAssignment2\VATCalculator\VATCalculator\obj\Debug\VATCalculator.pdb
